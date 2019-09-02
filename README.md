@@ -4,6 +4,6 @@ Disegna 10 piccole zanzare  (basta la silhouette) che, alla pressione del tasto 
 
 =======================================================
 
-Eseguire il server direttamente nella cartella del progetto
+Per il corretto funzionamento, avviare il server da terminale direttamente nella cartella del progetto
 
 =======================================================
