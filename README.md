@@ -5,6 +5,6 @@ Disegna 10 piccole zanzare  (basta la silhouette) che, alla pressione del tasto 
 =======================================================
 
 Per il corretto funzionamento, avviare il server da terminale direttamente nella cartella del progetto con il comando:
-python -m SimpleHTTPServer 8080
+python3 -m http.server 8080
 
 =======================================================
